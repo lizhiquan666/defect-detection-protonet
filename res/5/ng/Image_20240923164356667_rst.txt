@@ -1,0 +1,3 @@
+defect_count: 2
+cx=428.5 cy=92.8 w=30.4 h=16.7 angle=171.9
+cx=492.6 cy=118.7 w=48.7 h=13.8 angle=180.0

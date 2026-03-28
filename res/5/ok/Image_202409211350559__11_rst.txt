@@ -1,0 +1,2 @@
+defect_count: 1
+cx=602.7 cy=440.0 w=41.1 h=25.1 angle=90.0
