@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DefectDetect",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "defect_detect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-defect_detect-Debug-52c7df0d09db0e8bdc43.json",
+					"name" : "defect_detect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prototype_generator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prototype_generator-Debug-6f4a61da4026d9a67357.json",
+					"name" : "prototype_generator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u667a\u673a\u6167\u773c\u961f\u534e\u4e2d\u79d1\u6280\u5927\u5b660315/build",
+		"source" : "D:/\u667a\u673a\u6167\u773c\u961f\u534e\u4e2d\u79d1\u6280\u5927\u5b660315/code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

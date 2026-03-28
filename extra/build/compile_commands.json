@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\main.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\main.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/main.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\prnet.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\prnet.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/prnet.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/prnet.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\attention.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\attention.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/attention.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/attention.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\dataset.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\dataset.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/dataset.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/dataset.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\losses.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\losses.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/losses.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/losses.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\modules.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\modules.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/modules.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/modules.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\defect_detect.dir\\utils.cpp.obj /FdCMakeFiles\\defect_detect.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\utils.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/utils.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/defect_detect.dir/utils.cpp.obj"
+},
+{
+  "directory": "D:/智机慧眼队华中科技大学0315/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTORCH_USE_CXX11_ABI=0 -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -D_CRT_SECURE_NO_WARNINGS -ID:\\智机慧眼队华中科技大学0315\\code\\..\\extra\\opencv\\build\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include -external:ID:\\智机慧眼队华中科技大学0315\\extra\\libtorch\\include\\torch\\csrc\\api\\include -external:I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\" -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /utf-8 /permissive- /Z7 /EHsc /bigobj /FoCMakeFiles\\prototype_generator.dir\\prototype.cpp.obj /FdCMakeFiles\\prototype_generator.dir\\ /FS -c D:\\智机慧眼队华中科技大学0315\\code\\prototype.cpp",
+  "file": "D:/智机慧眼队华中科技大学0315/code/prototype.cpp",
+  "output": "D:/智机慧眼队华中科技大学0315/build/CMakeFiles/prototype_generator.dir/prototype.cpp.obj"
+}
+]

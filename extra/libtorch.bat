@@ -26,8 +26,8 @@ if not "%errorlevel%"=="0" (
 REM Resolve the directory where this script is located.
 for %%I in ("%~dp0.") do set "SCRIPT_DIR=%%~fI"
 
-if not defined LIBTORCH_URL set "LIBTORCH_URL=https://download.pytorch.org/libtorch/cu128/libtorch-win-shared-with-deps-debug-2.10.0%%2Bcu128.zip"
-if not defined LIBTORCH_ZIP set "LIBTORCH_ZIP=%SCRIPT_DIR%\libtorch-win-shared-with-deps-debug-2.10.0+cu128.zip"
+if not defined LIBTORCH_URL set "LIBTORCH_URL=https://download.pytorch.org/libtorch/cu128/libtorch-win-shared-with-deps-debug-2.11.0%%2Bcu128.zip"
+if not defined LIBTORCH_ZIP set "LIBTORCH_ZIP=%SCRIPT_DIR%\libtorch-win-shared-with-deps-debug-2.11.0+cu128.zip"
 if not defined LIBTORCH_DIR set "LIBTORCH_DIR=%SCRIPT_DIR%\libtorch"
 if not defined LIBTORCH_STAGE set "LIBTORCH_STAGE=%SCRIPT_DIR%\_tmp_libtorch_extract"
 

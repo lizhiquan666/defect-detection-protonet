@@ -1,0 +1,21 @@
+# ninja log v6
+113	13237	7952638751147445	CMakeFiles/defect_detect.dir/losses.cpp.obj	5a79f31cc2374623
+118	14006	7952638751197327	CMakeFiles/defect_detect.dir/modules.cpp.obj	da65fe7af4cffc07
+128	14589	7952638751248528	CMakeFiles/prototype_generator.dir/prototype.cpp.obj	e9de9b1865e41f54
+102	14138	7952638751042609	CMakeFiles/defect_detect.dir/attention.cpp.obj	5be20495be26c43e
+97	14345	7952638750977325	CMakeFiles/defect_detect.dir/prnet.cpp.obj	d8f4f37ef945b302
+123	14471	7952638751248528	CMakeFiles/defect_detect.dir/utils.cpp.obj	1290d5c64e8ee2f4
+107	14704	7952638751088177	CMakeFiles/defect_detect.dir/dataset.cpp.obj	f27fe4b3822d4c90
+91	15031	7952638750899952	CMakeFiles/defect_detect.dir/main.cpp.obj	fbf8c80aad3b09ff
+14590	14819	7952638895874066	prototype_generator.exe	7b41f0feed0c29c9
+15032	15320	7952638900338077	defect_detect.exe	f171ded150b0a0bd
+106	12421	7952647498161516	CMakeFiles/defect_detect.dir/losses.cpp.obj	5a79f31cc2374623
+97	13356	7952647498036755	CMakeFiles/defect_detect.dir/attention.cpp.obj	5be20495be26c43e
+111	13504	7952647498241533	CMakeFiles/defect_detect.dir/modules.cpp.obj	da65fe7af4cffc07
+117	13624	7952647498297748	CMakeFiles/defect_detect.dir/utils.cpp.obj	1290d5c64e8ee2f4
+121	13748	7952647498341147	CMakeFiles/prototype_generator.dir/prototype.cpp.obj	e9de9b1865e41f54
+102	13861	7952647498146473	CMakeFiles/defect_detect.dir/dataset.cpp.obj	f27fe4b3822d4c90
+92	13979	7952647498036755	CMakeFiles/defect_detect.dir/prnet.cpp.obj	d8f4f37ef945b302
+86	14414	7952647497989910	CMakeFiles/defect_detect.dir/main.cpp.obj	fbf8c80aad3b09ff
+13749	14435	7952647634615212	prototype_generator.exe	7b41f0feed0c29c9
+14415	15264	7952647641167936	defect_detect.exe	f171ded150b0a0bd

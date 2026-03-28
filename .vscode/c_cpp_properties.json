@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win64 MSVC",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/extra/libtorch/include",
+                "${workspaceFolder}/extra/libtorch/include/torch/csrc/api/include",
+                "${workspaceFolder}/extra/opencv/build/include",
+                "${workspaceFolder}/extra/opencv/build/include/opencv2",
+                "${env:LIBTORCH_ROOT}/include",
+                "${env:LIBTORCH_ROOT}/include/torch/csrc/api/include",
+                "${env:OPENCV_ROOT}/include",
+                "${env:OPENCV_ROOT}/include/opencv2"
+            ],
+            "defines": [
+                "_DEBUG"
+            ],
+            "compilerPath": "cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

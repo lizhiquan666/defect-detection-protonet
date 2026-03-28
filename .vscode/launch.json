@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run main.exe (Debug)",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Debug/main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build/Debug",
+            "environment": [
+                {
+                    "name": "PATH",
+                    "value": "${env:PATH};${env:LIBTORCH_LIB};${env:OPENCV_BIN};${workspaceFolder}/extra/libtorch/lib;${workspaceFolder}/extra/opencv/build/x64/vc16/bin"
+                }
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

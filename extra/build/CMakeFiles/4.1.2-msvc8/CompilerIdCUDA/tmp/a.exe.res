@@ -1,0 +1,1 @@
+-D__CUDA_ARCH_LIST__=520 -D__NV_LEGACY_LAUNCH -nologo "D:\智机慧眼队华中科技大学0315\build\CMakeFiles\4.1.2-msvc8\CompilerIdCUDA\tmp\a_dlink.obj" "D:\智机慧眼队华中科技大学0315\build\CMakeFiles\4.1.2-msvc8\CompilerIdCUDA\tmp\CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../lib/x64"  cudadevrt.lib  cudart_static.lib
